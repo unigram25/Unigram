@@ -1,1 +1,0 @@
-Student social media app
